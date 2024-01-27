@@ -1,0 +1,27 @@
+Omelette/Breakfast/6/2 Egg,  Salt, 1tbsp Butter, 2tbsp Cheese, /Crack the eggs into a bowl, add a pinch of salt and beat the eggs.
+Melt the butter on a skillet.
+Add egg to the skillet and cook without stirring.
+Place cheese on the center and cook for another minute.
+
+
+
+
+
+/end
+Rice/Lunch/35/2cups Rice, 3.5cups water, 1tbspn Olive Oil, 2tbsp Butter, 2tbsp Orzo, 1.5tsp Salt, /Wash the rice and keep it aside in a strainer to allow the water to drain.
+Put the olive oil and butter in a pan. Fry the orzos until they turn golden brown.
+Add the drained rice and start frying.
+Add the salt.
+After frying the rice on low heat for 3-4 minutes, stirring constantly, add 3.5 cups of boiling water into it.
+Close the lid of the pot. Cook for 3-4 minutes on high heat, then for 3-4 minutes on medium heat, and finally over low heat until the grains are cooked and the water is absorbed.
+When the water is absorbed, remove from the stove and leave to infuse for 20 minutes.
+
+
+
+
+
+/end
+Green Tea/Other/5/2tsp Green Tea, 2cups Water, /Boil water and add tea leaves.
+
+
+/end
